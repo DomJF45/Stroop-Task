@@ -17,12 +17,6 @@
 #define WORD_3 3
 #define WORD_4 4
 //words -----------------------
-/*
-#define WORD_RED 1
-#define WORD_GREEN 2
-#define WORD_BLUE 3
-#define WORD_YELLOW 4
-*/
 
 #define COLOR_1 1
 #define COLOR_2 2
